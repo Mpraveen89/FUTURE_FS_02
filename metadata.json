@@ -1,0 +1,6 @@
+{
+  "name": "Client Lead Management System",
+  "description": "A high-fidelity client lead management dashboard and website contact capture portal for an IT company, tracking pipeline progress with interactive analytics, status managers, and follow-up tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
